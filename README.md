@@ -5,5 +5,3 @@
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 *Please read the [contribution guidelines](contributing.md) before contributing.*
-
-**Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter](https://twitter.com/sindresorhus).**
