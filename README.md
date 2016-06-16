@@ -2,6 +2,6 @@
 
 > A curated list of delightful awesome tools for a startup.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
 
 *Please read the [contribution guidelines](contributing.md) before contributing.*
