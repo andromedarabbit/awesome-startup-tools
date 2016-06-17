@@ -14,7 +14,7 @@
 
 * [CodeShip](https://codeship.com/) is one of the best continuous integration service and its Docker support might be the best one in the same industry:
   * Build automation based on Docker is little bit harder to implement comparing to the traditional one.
-  * If you think it is not affordable, just use your machine instead of CodeShip service. All you need to implement Docker-based build system is [Jet](https://codeship.com/documentation/docker/installation/). This build tool is totally free.
+  * If you think it is not affordable, just use your machine instead of CodeShip service. All you need is [Jet](https://codeship.com/documentation/docker/installation/). With this build tool, you can set up your own Docker-based build system.
 
 ## Messaging
 
