@@ -6,6 +6,12 @@
 
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
+## Starting a business
+
+* [Microsoft BizSpark Program](https://www.microsoft.com/bizspark) provides Azure, Windows, Windows Server, SQL Server, and Office 365 free for 3 years. 
+* 
+
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
