@@ -10,11 +10,15 @@
 
 * [Microsoft BizSpark Program](https://www.microsoft.com/bizspark) provides Azure, Windows, Windows Server, SQL Server, and Office 365 free for 3 years. 
 
+## DevOps
+
+* [CodeShip](more_in_depth/codeship.md) is one of the best continuous integration service and its Docker support might be the best one in the this industry.
+* [DataDog](http://datadoghq.com/)
+* [NewRelic](https://newrelic.com)
+
 ## Messaging
 
-* With [Twilio](https://www.twilio.com/), you can send text messages all over the world. 
-  * SDKs and APIs are robust and well-designed. It also is easy to use.
-  * Lots of business scenarios like [*Automated survey*, *SMS notification* and etc](https://www.twilio.com/docs/tutorials) can be achieved 
+* With [Twilio](more_in_depth/twilio.md), you can send text messages all over the world. 
 * [libphonenumber](https://github.com/googlei18n/libphonenumber) is the best library when you handle phone numbers: 
 
   > Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers
