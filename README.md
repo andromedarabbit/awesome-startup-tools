@@ -13,7 +13,7 @@
 ## Messaging
 
 * With [Twilio](https://www.twilio.com/), you can send text messages all over the world. 
-  * SDK and APIs is robust and well-designed. It also is easy to use.
+  * SDK and APIs are robust and well-designed. It also is easy to use.
   * Lots of business scenarios like *Automated survey*, *SMS notification* and etc can be achieved 
 
 
