@@ -1,4 +1,4 @@
 # Summary
 
-* License
+* [License](license.md)
 
