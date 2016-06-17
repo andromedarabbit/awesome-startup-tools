@@ -12,7 +12,7 @@
 
 ## DevOps
 
-* [CodeShip](https://codeship.com/) is one of the best continuous integration service and its Docker support might be the best one in the same industry:
+* [CodeShip](https://codeship.com/) is one of the best continuous integration service and its Docker support might be the best one in the this industry:
   * Build automation based on Docker is little bit harder to implement comparing to the traditional one.
   * If you think it is not affordable, just use your machine instead of CodeShip service. All you need is [Jet](https://codeship.com/documentation/docker/installation/). With this build tool, you can set up your own Docker-based build system.
 
@@ -24,9 +24,6 @@
 * [libphonenumber](https://github.com/googlei18n/libphonenumber) is the best library when you handle phone numbers: 
 
   > Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers
-
-
-
 
 ## License
 
