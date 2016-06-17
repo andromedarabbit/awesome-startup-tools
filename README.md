@@ -12,7 +12,9 @@
 
 ## Messaging
 
-* [Twilio](https://www.twilio.com/)
+* With [Twilio](https://www.twilio.com/), you can send text messages all over the world. 
+  * SDKs and APIs are robust and well-designed. It also is easy to use.
+  * Lots of business scenarios like [*Automated survey*, *SMS notification* and etc](https://www.twilio.com/docs/tutorials) can be achieved 
 
 
 ## License
