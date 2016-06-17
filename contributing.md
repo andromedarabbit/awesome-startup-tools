@@ -17,5 +17,3 @@ Ensure your pull request adheres to the following guidelines:
 - The pull request should have a useful title and include a link to the package and why it should be included.
 
 Thank you for your suggestion!
-Pressto Start Highlighting
-Pressto Start Highlighting
