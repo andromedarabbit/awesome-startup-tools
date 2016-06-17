@@ -1,4 +1,4 @@
 # Summary
 
-* [contributing](contributing.md)
+* [Contribution Guidelines](contributing.md)
 
