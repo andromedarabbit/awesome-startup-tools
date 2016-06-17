@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-   * Contribution Guidelines
+   * [Contribution Guidelines](contributing.md)
 
