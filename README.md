@@ -18,12 +18,31 @@
 * [DataDog](http://datadoghq.com/)
 * [NewRelic](https://newrelic.com)
 
+## Collaboration
+
+* [Zoom.us](more_in_depth/video_conference_tool_comparision.md) is a web and video conference service. It provides stable connection and takes low-CPU usage.
+* [Appear.in](more_in_depth/video_conference_tool_comparision.md) is a good alternative to Zoom.us if your need is simpler.
+
 ## Messaging
 
 * With [Twilio](more_in_depth/twilio.md), you can send text messages all over the world. 
 * [libphonenumber](https://github.com/googlei18n/libphonenumber) is the best library when you handle phone numbers: 
 
   > Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers
+
+## Good work relationship
+
+* [Coworker Coffee](http://coworkercoffee.com/) 
+  > Coffee with a different coworker each week
+
+## Project management
+
+* Jira
+* Trello
+
+## Documentation
+
+* Confluence
 
 ## License
 
