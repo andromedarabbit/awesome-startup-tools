@@ -6,6 +6,8 @@
 
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
+*[Gitbook](https://andromedarabbit.gitbooks.io/awesome-startup-tools/content/) would provide you better reading experience.*
+
 ## Starting a business
 
 * [Microsoft BizSpark Program](https://www.microsoft.com/bizspark) provides Azure, Windows, Windows Server, SQL Server, and Office 365 free for 3 years. 
