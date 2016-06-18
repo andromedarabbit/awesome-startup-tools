@@ -2,4 +2,6 @@
 
 * [Introduction](README.md)
 * [Contributing](contributing.md)
-  * [Contributor Covenant Code of Conduct](code-of-conduct.md)
+   * [Contributor Covenant Code of Conduct](code-of-conduct.md)
+* More in Depth
+
