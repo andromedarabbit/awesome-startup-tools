@@ -50,6 +50,8 @@
 ## Documentation
 
 * Confluence
+* Google Drive
+* Office 365
 
 ## Testing
 
