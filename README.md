@@ -44,6 +44,23 @@
 
 * Confluence
 
+## Testing
+
+* Argos
+
+## Customer service
+
+* Zendesk
+
+## Marketing & Branding
+
+* Appboy
+* [review boost](http://www.reviewboost.com/)
+
+## Billing
+
+* [Sift Science](https://siftscience.com/)
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
