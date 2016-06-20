@@ -11,6 +11,7 @@
 ## Starting a business
 
 * [Microsoft BizSpark Program](https://www.microsoft.com/bizspark) provides Azure, Windows, Windows Server, SQL Server, and Office 365 free for 3 years. 
+* Google Apps
 
 ## DevOps
 
@@ -26,6 +27,7 @@
 ## Security
 
 * LastPass
+* Authy
 
 ## Messaging
 
