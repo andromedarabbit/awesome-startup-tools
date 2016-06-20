@@ -20,7 +20,7 @@
 
 ## Collaboration
 
-* [Zoom.us](more_in_depth/video_confence_tools.md) is a web and video conference service. It provides stable connection and takes low-CPU usages.
+* [Zoom.us](more_in_depth/video_confence_tools.md) is a web and video conference service. It provides stable connection and takes low-CPU usage.
 
 ## Messaging
 
