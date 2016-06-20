@@ -1,4 +1,4 @@
-# Video Confence Tools
+# Video Conference Tool Comparison
 
 ## [Zoom.us](https://zoom.us)
 
