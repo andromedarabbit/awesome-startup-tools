@@ -44,8 +44,25 @@
 
 * Confluence
 
+## Testing
+
+* Argos
+
+## Customer service
+
+* Zendesk
+
+## Marketing & Branding
+
+* Appboy
+* [review boost](http://www.reviewboost.com/)
+
+## Billing
+
+* [Sift Science](https://siftscience.com/)
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Jaehoon Choi](https://andromedarabbit.net) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Jaehoon Choi](https://github.com/andromedarabbit) has waived all copyright and related or neighboring rights to this work.
