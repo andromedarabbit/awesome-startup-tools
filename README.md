@@ -21,7 +21,7 @@
 * [TESTDOME](https://www.testdome.com/) provides a **free** plan but costs more when you subscribe to the paid one.
   * Customers are [Naver](https://naver.com) and others.
 * [Codility](https://codility.com/)
-  * Customers are [SKT](http://www.sktelecom.com/) and others.
+  * Customers are [SKT](http://www.sktelecom.com/), 직방, 배달의 민족, 라인 and others.
 
 
 ## DevOps
