@@ -17,11 +17,11 @@
 ## Hiring
 
 * [remoteinterview.io](https://www.remoteinterview.io/features-test)
-  * Pototree inc.
+  * Customers are [Podotree inc](http://podotree.com/) and others.
 * [TESTDOME](https://www.testdome.com/) provides a **free** plan but costs more when you subscribe to the paid one.
-  * Naver
+  * Customers are [Naver](https://naver.com) and others.
 * [Codility](https://codility.com/)
-  * SKT
+  * Customers are [SKT](http://www.sktelecom.com/) and others.
 
 
 ## DevOps
