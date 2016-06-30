@@ -11,6 +11,11 @@
         "forkmegithub": {
             "url": "https://github.com/andromedarabbit/awesome-startup-tools",
             "color": "red"
+        },
+        "editlink": {
+            "base": "",
+            "label": "Edit This Page",
+            "multilingual": "false"
         }
     }
 }
