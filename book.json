@@ -1,14 +1,14 @@
 {
     "plugins": [
         "disqus",
-        "github",
+        "-github",
         "forkmegithub"
     ],
     "pluginsConfig": {
         "disqus": {
             "shortName": "awesomestartuptools"
         },
-        "github": {
+        "-github": {
             "url": "https://github.com/andromedarabbit/awesome-startup-tools"
         },
         "forkmegithub": {
