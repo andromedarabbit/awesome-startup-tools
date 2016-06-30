@@ -1,12 +1,8 @@
 {
     "plugins": [
-        "disqus",
         "forkmegithub"
     ],
     "pluginsConfig": {
-        "disqus": {
-            "shortName": "whattomonitor"
-        },
         "forkmegithub": {
             "url": "https://github.com/andromedarabbit/awesome-startup-tools",
             "color": "red"
