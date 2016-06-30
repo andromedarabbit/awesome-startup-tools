@@ -2,8 +2,7 @@
     "plugins": [
         "disqus",
         "-github",
-        "forkmegithub",
-        "github-buttons"
+        "forkmegithub"
     ],
     "pluginsConfig": {
         "disqus": {
