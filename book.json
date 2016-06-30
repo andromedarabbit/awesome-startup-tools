@@ -1,8 +1,7 @@
 {
     "plugins": [
         "disqus",
-        "forkmegithub",
-        "github"
+        "forkmegithub"
     ],
     "pluginsConfig": {
         "disqus": {
@@ -11,9 +10,6 @@
         "forkmegithub": {
             "url": "https://github.com/andromedarabbit/awesome-startup-tools",
             "color": "red"
-        },
-        "github": {
-            "url": "https://github.com/andromedarabbit/awesome-startup-tools"
         }
     }
 }
