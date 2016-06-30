@@ -6,6 +6,9 @@
     "pluginsConfig": {
         "disqus": {
             "shortName": "awesomestartuptools"
+        },
+        "github": {
+            "url": "https://github.com/andromedarabbit/awesome-startup-tools"
         }
     }
 }
