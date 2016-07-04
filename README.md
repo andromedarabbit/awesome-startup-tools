@@ -14,6 +14,12 @@
 * Office 365
 * Google Business Apps
 
+## Cloud computing
+
+* [Microsoft BizSpark Program](https://www.microsoft.com/bizspark) provides Azure, Windows, Windows Server, SQL Server, and Office 365 free for 3 years. 
+* [Google cloud platform for startups](https://cloud.google.com/developers/startups/) might be one of the best options if you got investment from VC. This is also a good option even if you did not.
+* [AWS Activate](https://aws.amazon.com/activate/) also provides as generous benefits as [Google cloud platform for startups](https://cloud.google.com/developers/startups/).
+
 ## Hiring
 
 * [remoteinterview.io](https://www.remoteinterview.io/features-test)
