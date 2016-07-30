@@ -1,12 +1,12 @@
-# Awesome Startup Tools [](https://github.com/sindresorhus/awesome)
+# Awesome Startup Tools 
 
 > A curated and opinionated list of delightful awesome tools for a startup.
 
-_Inspired by the _[_awesome_](https://github.com/sindresorhus/awesome)_ list thing._
+_Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list thing._
 
-_Please read the _[_contribution guidelines_](contributing.md)_ before contributing._
+_Please read the __[contribution guidelines](contributing.md)__ before contributing._
 
-[_Gitbook_](https://andromedarabbit.gitbooks.io/awesome-startup-tools/content/)_ would provide you better reading experience._
+_[Gitbook](https://andromedarabbit.gitbooks.io/awesome-startup-tools/content/)__ would provide you better reading experience._
 
 ## Starting a business
 
@@ -23,12 +23,15 @@ _Please read the _[_contribution guidelines_](contributing.md)_ before contribut
 ## Hiring
 
 * [remoteinterview.io](https://www.remoteinterview.io/features-test)
+
   * Customers are [Podotree inc](http://podotree.com/) and others.
 
 * [TESTDOME](https://www.testdome.com/) provides a **free** plan but costs more when you subscribe to the paid one.
+
   * Customers are [Naver](https://naver.com) and others.
 
 * [Codility](https://codility.com/)
+
   * Customers are [SKT](http://www.sktelecom.com/), 직방, 배달의 민족, 라인 and others.
 
 
@@ -61,7 +64,7 @@ _Please read the _[_contribution guidelines_](contributing.md)_ before contribut
 
 ## Good work relationship
 
-* [Coworker Coffee](http://coworkercoffee.com/) 
+* [Coworker Coffee](http://coworkercoffee.com/): 
   > Coffee with a different coworker each week
 
 
@@ -101,7 +104,7 @@ _Please read the _[_contribution guidelines_](contributing.md)_ before contribut
 
 ## License
 
-[](https://creativecommons.org/publicdomain/zero/1.0/)
+
 
 To the extent possible under law, [Jaehoon Choi](https://github.com/andromedarabbit) has waived all copyright and related or neighboring rights to this work.
 
