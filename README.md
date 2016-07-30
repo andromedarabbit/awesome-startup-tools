@@ -1,12 +1,12 @@
-# Awesome Startup Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Startup Tools [](https://github.com/sindresorhus/awesome)
 
 > A curated and opinionated list of delightful awesome tools for a startup.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
+_Inspired by the _[_awesome_](https://github.com/sindresorhus/awesome)_ list thing._
 
-*Please read the [contribution guidelines](contributing.md) before contributing.*
+_Please read the _[_contribution guidelines_](contributing.md)_ before contributing._
 
-*[Gitbook](https://andromedarabbit.gitbooks.io/awesome-startup-tools/content/) would provide you better reading experience.*
+[_Gitbook_](https://andromedarabbit.gitbooks.io/awesome-startup-tools/content/)_ would provide you better reading experience._
 
 ## Starting a business
 
@@ -24,8 +24,10 @@
 
 * [remoteinterview.io](https://www.remoteinterview.io/features-test)
   * Customers are [Podotree inc](http://podotree.com/) and others.
+
 * [TESTDOME](https://www.testdome.com/) provides a **free** plan but costs more when you subscribe to the paid one.
   * Customers are [Naver](https://naver.com) and others.
+
 * [Codility](https://codility.com/)
   * Customers are [SKT](http://www.sktelecom.com/), 직방, 배달의 민족, 라인 and others.
 
@@ -52,14 +54,16 @@
 ## Messaging
 
 * With [Twilio](more_in_depth/twilio.md), you can send text messages all over the world. 
-* [libphonenumber](https://github.com/googlei18n/libphonenumber) is the best library when you handle phone numbers: 
+* [libphonenumber](https://github.com/googlei18n/libphonenumber) is the best library when you handle phone numbers:
 
   > Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers
+
 
 ## Good work relationship
 
 * [Coworker Coffee](http://coworkercoffee.com/) 
   > Coffee with a different coworker each week
+
 
 ## Project management
 
@@ -97,6 +101,7 @@
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Jaehoon Choi](https://github.com/andromedarabbit) has waived all copyright and related or neighboring rights to this work.
+
