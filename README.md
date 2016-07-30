@@ -65,6 +65,7 @@ _[Gitbook](https://andromedarabbit.gitbooks.io/awesome-startup-tools/content/)__
 ## Good work relationship
 
 * [Coworker Coffee](http://coworkercoffee.com/): 
+
   > Coffee with a different coworker each week
 
 
