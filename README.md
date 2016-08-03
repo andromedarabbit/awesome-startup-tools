@@ -61,6 +61,10 @@ _[Gitbook](https://andromedarabbit.gitbooks.io/awesome-startup-tools/content/)__
 
   > Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers
 
+## Co-working messenger
+
+* Slack
+* JANDI
 
 ## Good work relationship
 
