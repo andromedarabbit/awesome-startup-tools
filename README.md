@@ -107,6 +107,10 @@ _[Gitbook](https://andromedarabbit.gitbooks.io/awesome-startup-tools/content/)__
 
 * Confluence + 
 
+## Strategy
+
+* [Strategy Robot](https://taprun.com/robot/)
+
 ## License
 
 
